@@ -1,2 +1,2 @@
 def myFunction():
-	print ("hello")
+	print ("hello" LOL)
