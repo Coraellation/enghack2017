@@ -1,0 +1,2 @@
+def drinkCherrySoda():
+	print ("Drinking!")
